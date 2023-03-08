@@ -1,0 +1,15 @@
+{
+  "name": "levmv/resizer-url",
+  "type": "library",
+  "description": "Url helper for php/go-resizer",
+  "keywords": [],
+  "homepage": "https://github.com/levmv/resizer-url",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap" : ["Url.php"]
+  }
+}
